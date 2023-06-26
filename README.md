@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on all kinds of project
+- 🔭 I’m currently working on all kinds of CSS, Javascript, and Html projects
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on New Projects!
 - 🤔 I’m looking for help with Java/
