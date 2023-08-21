@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on all kinds of CSS, Javascript, and Html projects
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on New Projects!
-- 🤔 I’m looking for help with Java/
+- 🔭 I’m currently working on a React vite app
+- 🌱 I’m currently working on my Git skills.
+- 👯 I’m always looking to collaborate on New Projects!
+- 🤔 I’m looking for help with Java and express
 - 💬 Ask me about my Garden!
 - 📫 How to reach me: lashawnda.kersey@gmail 
 - 😄 Pronouns: She/Her
